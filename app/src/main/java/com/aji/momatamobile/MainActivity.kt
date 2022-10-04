@@ -6,7 +6,6 @@ import android.view.View
 import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
-import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.aji.momatamobile.databinding.ActivityMainBinding
@@ -78,6 +77,5 @@ class MainActivity : AppCompatActivity() {
                 }.setNegativeButton(android.R.string.no, null)
                 .show()
         }
-
     }
 }
