@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Momata Mobile</string>
+    <string name="menu_idchip">ID Perangkat</string>
+    <string name="enter_device_id">Masukkan ID perangkat</string>
+    <string name="menu_refresh">Segarkan</string>
+    <string name="conected_to_device">Tersambung ke perangkat %s</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+</resources>
